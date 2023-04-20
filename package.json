@@ -1,0 +1,22 @@
+{
+  "name": "20120599",
+  "version": "1.0.0",
+  "description": "Project Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thtrangphu/E-Shopping.git"
+  },
+  "author": "Phu Thi Kim Trang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thtrangphu/E-Shopping/issues"
+  },
+  "homepage": "https://github.com/thtrangphu/E-Shopping#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
